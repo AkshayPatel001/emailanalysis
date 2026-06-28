@@ -95,4 +95,4 @@ Add to `.env` to enable threat intelligence enrichment:
 
 ## License
 
-Internal SOC tool — not for public distribution.
+Personal SOC tool.
