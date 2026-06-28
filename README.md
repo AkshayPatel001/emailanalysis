@@ -98,4 +98,46 @@ Add to `.env` to enable threat intelligence enrichment:
 Personal SOC tool.
 
 ## **IMAGES**
+-DASHBOARD
 <img width="2549" height="1377" alt="Screenshot From 2026-06-28 01-46-00" src="https://github.com/user-attachments/assets/e4f46605-56c6-470e-af0d-2cc076203c65" />
+
+-UPLOAD EMAIL
+<img width="2549" height="1377" alt="Screenshot From 2026-06-28 01-46-12" src="https://github.com/user-attachments/assets/f535e434-d8e0-4676-83ba-2fbe4856bdc7" />
+
+-CASES/PREVIOUS SCANS
+<img width="2549" height="1377" alt="Screenshot From 2026-06-28 01-46-14" src="https://github.com/user-attachments/assets/9a2dceb1-9aae-40b8-b777-4d20e5639d02" />
+
+-SETTINGS
+<img width="2549" height="1377" alt="Screenshot From 2026-06-28 01-46-28" src="https://github.com/user-attachments/assets/89df7b6f-778e-4ed2-97ba-d475b3e20563" />
+<img width="2549" height="1377" alt="Screenshot From 2026-06-28 01-46-32" src="https://github.com/user-attachments/assets/afbf2c16-2de6-4217-b471-12b445e5b72f" />
+
+
+-EMAIL SCAN RESULT
+  -Summary (Gives you summary of email)
+  <img width="2549" height="1377" alt="Screenshot From 2026-06-28 01-46-40" src="https://github.com/user-attachments/assets/a77ffbf9-8a9c-4d12-bdd4-40a7797468cc" />
+
+  -Headers (Header info of email)
+  <img width="2557" height="1386" alt="Screenshot From 2026-06-28 01-46-49" src="https://github.com/user-attachments/assets/542f8a78-e754-4a7d-a49b-1802f6e4a6ec" />
+
+  -Phishing 
+  <img width="2557" height="1386" alt="Screenshot From 2026-06-28 01-46-54" src="https://github.com/user-attachments/assets/96ca4859-f291-4490-9666-85df05916c1a" />
+
+  -URLS
+  <img width="2557" height="1386" alt="Screenshot From 2026-06-28 01-46-57" src="https://github.com/user-attachments/assets/49840b4b-548c-47d2-ba34-539fbe4e81dc" />
+
+  -Attachments
+<img width="2557" height="1386" alt="Screenshot From 2026-06-28 01-47-04" src="https://github.com/user-attachments/assets/69f00b1c-3e7b-4fee-a8b8-1d7866718555" />
+
+  -YARA Rules
+  <img width="2557" height="1386" alt="Screenshot From 2026-06-28 01-47-06" src="https://github.com/user-attachments/assets/6ea4a61c-6633-4269-b11c-2f46e7ba317a" />
+
+  -IOCs
+  <img width="2557" height="1386" alt="Screenshot From 2026-06-28 01-47-10" src="https://github.com/user-attachments/assets/74f368e7-51a4-4607-8f94-014fb6079f38" />
+
+  -MITRE
+  <img width="2557" height="1386" alt="Screenshot From 2026-06-28 01-47-13" src="https://github.com/user-attachments/assets/82f40a98-ddd5-4f72-8af0-e33bbc69e146" />
+
+  -ACTIONS (Currently supports M365 Purge Email, which will delete this from MS)
+ <img width="2558" height="1386" alt="Screenshot From 2026-06-28 01-47-24" src="https://github.com/user-attachments/assets/e1271c3f-85ca-4236-a81a-7919bfbd6485" />
+ 
+
