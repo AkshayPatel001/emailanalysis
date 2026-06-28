@@ -96,3 +96,6 @@ Add to `.env` to enable threat intelligence enrichment:
 ## License
 
 Personal SOC tool.
+
+## **IMAGES**
+<img width="2549" height="1377" alt="Screenshot From 2026-06-28 01-46-00" src="https://github.com/user-attachments/assets/e4f46605-56c6-470e-af0d-2cc076203c65" />
